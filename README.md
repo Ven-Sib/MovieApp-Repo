@@ -112,9 +112,9 @@ This app uses the **TMDb API** to fetch movie details.
 ## **📩 Contact & Contributions**  
 🙌 **Want to contribute?** Fork this repo and submit a PR!  
 
-📧 **Reach Me:** [your-email@example.com](mailto:sibandavensen@gmail.com)  
+📧 **Reach Me:** [sibandavensen@gmail.com](mailto:sibandavensen@gmail.com)  
 🌍 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
-🐙 **GitHub:** [github.com/your-username](https://github.com/Ven-Sib)  
+🐙 **GitHub:** [github.com/Ven-Sib](https://github.com/Ven-Sib)  
 
 ---
 
