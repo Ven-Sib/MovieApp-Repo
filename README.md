@@ -69,7 +69,7 @@ Your app will be live at: **https://your-username.github.io/your-repository/**
 ---
 
 ## **📡 API Integration**  
-This app uses the **TMDb API** (or any public movie API) to fetch movie details.  
+This app uses the **TMDb API** to fetch movie details.  
 
 ### **How It Works:**  
 1. The user enters a movie title in the search bar.  
@@ -83,7 +83,6 @@ This app uses the **TMDb API** (or any public movie API) to fetch movie details.
 📂 your-repository/
  ┣ 📂 src/
  ┃ ┣ 📂 components/    # Reusable UI Components
- ┃ ┣ 📂 pages/         # Main Pages (Home, Search)
  ┃ ┣ 📜 App.jsx        # Main App Component
  ┃ ┣ 📜 index.css      # Global Styles (Tailwind)
  ┃ ┣ 📜 main.jsx       # React DOM Rendering
@@ -113,9 +112,9 @@ This app uses the **TMDb API** (or any public movie API) to fetch movie details.
 ## **📩 Contact & Contributions**  
 🙌 **Want to contribute?** Fork this repo and submit a PR!  
 
-📧 **Reach Me:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Reach Me:** [your-email@example.com](mailto:sibandavensen@gmail.com)  
 🌍 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
-🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)  
+🐙 **GitHub:** [github.com/your-username](https://github.com/Ven-Sib)  
 
 ---
 
