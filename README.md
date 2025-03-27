@@ -41,32 +41,6 @@
 
 ---
 
-## **⚙️ Installation & Setup**  
-
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-```
-
-### **2️⃣ Install Dependencies**  
-```sh
-npm install
-```
-
-### **3️⃣ Run the App Locally**  
-```sh
-npm run dev
-```
-Then open **`http://localhost:5173/`** in your browser.  
-
-### **4️⃣ Deploy to GitHub Pages (Optional)**  
-```sh
-npm run deploy
-```
-Your app will be live at: **https://your-username.github.io/your-repository/**  
-
----
 
 ## **📡 API Integration**  
 This app uses the **TMDb API** to fetch movie details.  
