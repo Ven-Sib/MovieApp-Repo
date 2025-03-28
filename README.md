@@ -12,7 +12,6 @@
 ✅ **API Integration** – Fetches real-time movie data using a public API.  
 ✅ **Modern UI** – Designed with **Tailwind CSS** for a clean and responsive layout.  
 
-
 ---
 
 ## **🛠️ Tech Stack & Dependencies**  
