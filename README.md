@@ -41,20 +41,6 @@ This app uses the **TMDb API** to fetch movie details.
 2. The app sends an API request to fetch relevant movie data.  
 3. The results are dynamically displayed with **ratings, language, and release date**.  
 
----
-
-## **📌 Folder Structure**  
-```
-📂 your-repository/
- ┣ 📂 src/
- ┃ ┣ 📂 components/    # Reusable UI Components
- ┃ ┣ 📜 App.jsx        # Main App Component
- ┃ ┣ 📜 index.css      # Global Styles (Tailwind)
- ┃ ┣ 📜 main.jsx       # React DOM Rendering
- ┣ 📜 package.json     # Project Dependencies
- ┣ 📜 vite.config.js   # Vite Configuration
- ┣ 📜 README.md        # Documentation
-```
 
 ---
 
