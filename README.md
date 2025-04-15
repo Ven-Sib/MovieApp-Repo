@@ -1,7 +1,7 @@
 ### **📌 Movie Explorer – A React-Based Movie Search App**  
 
 
-🚀 **Movie Explorer** is a sleek and efficient web application that allows users to search for any movie of their choice. Built with **React**, **Tailwind CSS**, and **REST API integration**, the app dynamically fetches and displays movie details, including **ratings, original language, and release date**.  
+🚀 **Movie Explorer** is a sleek and efficient web application that allows users to search for any movie of their choice. Built with **React**, **Tailwind CSS**, and **REST API integration**, the app dynamically fetches and displays movie details, including **ratings, original language, and release date**. follow this link to explore, https://ven-sib.github.io/your-repository/
 
 ---
 
