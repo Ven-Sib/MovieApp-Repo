@@ -1,20 +1,20 @@
-### **📌 Movie Explorer – A React-Based Movie Search App**  
+### ** Movie Explorer – A React-Based Movie Search App**  
 
 
-🚀 **Movie Explorer** is a sleek and efficient web application that allows users to search for any movie of their choice. Built with **React**, **Tailwind CSS**, and **REST API integration**, the app dynamically fetches and displays movie details, including **ratings, original language, and release date**. follow this link to explore, https://ven-sib.github.io/your-repository/
-
----
-
-## **🌟 Features**  
-✅ **Search for Any Movie** – Type a movie name and get instant results.  
-✅ **Dynamic Movie Cards** – Displays movie posters, ratings, language, and release date.  
-✅ **Fast & Responsive** – Optimized with **React + Tailwind CSS** for a seamless experience.  
-✅ **API Integration** – Fetches real-time movie data using a public API.  
-✅ **Modern UI** – Designed with **Tailwind CSS** for a clean and responsive layout.  
+ **Movie Explorer** is a sleek and efficient web application that allows users to search for any movie of their choice. Built with **React**, **Tailwind CSS**, and **REST API integration**, the app dynamically fetches and displays movie details, including **ratings, original language, and release date**. follow this link to explore, https://ven-sib.github.io/your-repository/
 
 ---
 
-## **🛠️ Tech Stack & Dependencies**  
+## ** Features**  
+ **Search for Any Movie** – Type a movie name and get instant results.  
+ **Dynamic Movie Cards** – Displays movie posters, ratings, language, and release date.  
+ **Fast & Responsive** – Optimized with **React + Tailwind CSS** for a seamless experience.  
+ **API Integration** – Fetches real-time movie data using a public API.  
+ **Modern UI** – Designed with **Tailwind CSS** for a clean and responsive layout.  
+
+---
+
+## ** Tech Stack & Dependencies**  
 
 ### **Frontend:**  
 - **React** – Component-based UI for a smooth experience.  
@@ -32,7 +32,7 @@
 ---
 
 
-## **📡 API Integration**  
+## ** API Integration**  
 This app uses the **TMDb API** to fetch movie details.  
 
 ### **How It Works:**  
@@ -43,16 +43,16 @@ This app uses the **TMDb API** to fetch movie details.
 
 ---
 
-## **🚀 Strengths & Skills Showcased**  
-✅ **React Mastery** – Efficient component-based development.  
-✅ **Tailwind CSS** – Modern styling approach for clean UI.  
-✅ **API Integration** – Fetching and handling external data smoothly.  
-✅ **Fast Development** – Leveraging **Vite** for a lightning-fast dev experience.  
-✅ **Deployment Skills** – Hosted on **GitHub Pages** for accessibility.  
+## ** Strengths & Skills Showcased**  
+ **React Mastery** – Efficient component-based development.  
+ **Tailwind CSS** – Modern styling approach for clean UI.  
+ **API Integration** – Fetching and handling external data smoothly.  
+ **Fast Development** – Leveraging **Vite** for a lightning-fast dev experience.  
+ **Deployment Skills** – Hosted on **GitHub Pages** for accessibility.  
 
 ---
 
-## **🎯 Future Enhancements**  
+## ** Future Enhancements**  
 🔹 **Movie Trailers** – Embed YouTube trailers for each movie.  
 🔹 **User Authentication** – Allow users to create watchlists.  
 🔹 **Dark Mode** – Improve UI with a dark theme toggle.  
