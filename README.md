@@ -53,22 +53,22 @@ This app uses the **TMDb API** to fetch movie details.
 ---
 
 ## ** Future Enhancements**  
-🔹 **Movie Trailers** – Embed YouTube trailers for each movie.  
-🔹 **User Authentication** – Allow users to create watchlists.  
-🔹 **Dark Mode** – Improve UI with a dark theme toggle.  
+ **Movie Trailers** – Embed YouTube trailers for each movie.  
+ **User Authentication** – Allow users to create watchlists.  
+ **Dark Mode** – Improve UI with a dark theme toggle.  
 
 ---
 
-## **📩 Contact & Contributions**  
-🙌 **Want to contribute?** Fork this repo and submit a PR!  
+## ** Contact & Contributions**  
+ **Want to contribute?** Fork this repo and submit a PR!  
 
-📧 **Reach Me:** [sibandavensen@gmail.com](mailto:sibandavensen@gmail.com)  
-🌍 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
-🐙 **GitHub:** [github.com/Ven-Sib](https://github.com/Ven-Sib)  
+ **Reach Me:** [sibandavensen@gmail.com](mailto:sibandavensen@gmail.com)  
+ **Portfolio:** [your-portfolio.com](https://your-portfolio.com)  
+ **GitHub:** [github.com/Ven-Sib](https://github.com/Ven-Sib)  
 
 ---
 
-### 🚀 **Enjoy Exploring Movies!** 🎬🍿  
+###  **Enjoy Exploring Movies!**  
 
 ---
 
